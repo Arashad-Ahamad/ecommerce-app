@@ -1,4 +1,4 @@
- E-Commerce App
+## E-Commerce App
 
 Modern e-commerce web app built with **Next.js 15**, **React**, **TypeScript**, **Redux Toolkit**, **Tailwind CSS** and **Shadcn UI** — with a **light / dark / system** theme.
 
