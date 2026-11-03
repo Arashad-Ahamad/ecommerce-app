@@ -1,8 +1,8 @@
-# 🛍️ ShopHub - E-Commerce App
+ E-Commerce App
 
 Modern e-commerce web app built with **Next.js 15**, **React**, **TypeScript**, **Redux Toolkit**, **Tailwind CSS** and **Shadcn UI** — with a **light / dark / system** theme.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Next.js 15** (App Router, Server Components, Turbopack)
 - **React 19**
@@ -15,7 +15,7 @@ Modern e-commerce web app built with **Next.js 15**, **React**, **TypeScript**, 
 - **Sonner** (toast notifications)
 - FakeStore API
 
-## ✨ Features
+##  Features
 
 ### Cart Features
 - ✅ Add/Remove items
