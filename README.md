@@ -108,11 +108,6 @@ npx shadcn@latest add dialog
 https://fakestoreapi.com
 
 ---
-## 🔗 Live
-
-[View Live Project](https://shophub-ecommerce-app.vercel.app/)
-
----
 
 
 ## 👨‍💻 Author
