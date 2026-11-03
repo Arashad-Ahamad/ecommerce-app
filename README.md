@@ -110,7 +110,7 @@ https://fakestoreapi.com
 ---
 ## 🔗 Live
 
-[View Live Project](https://shophub-ecommerce-app.vercel.app/)
+[View Live Project](https://ecommerce-arashad.vercel.app/)
 
 ---
 
